@@ -1,10 +1,11 @@
 
 ## Devoir #2 : Site Web adaptatif (15%)
+Création d’un site Web personnel (ex : Site CV, site professionnel/agence, site portfolio, site d’un projet, etc.) qui doit être adapté aux appareils mobiles.
 
 ### URL du site-web
 http://iota21.com/ige511/
 
-Création d’un site Web personnel (ex : Site CV, site professionnel/agence, site portfolio, site d’un projet, etc.) qui doit être adapté aux appareils mobiles.
+
 
 ### Détails du site Web adaptatif
 * Création d’une maquette de type fil de fer (« wireframes ») pour mobile et ordinateur;
